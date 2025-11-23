@@ -5,8 +5,8 @@ order: 4
 ---
 
 
-# **🍮Qchup Studios🍮**     
-- Hello, I'm **Qchup(큐찹)**, also known as **DOYEONG HYUN(현도영)**. I document my studies and hobbies here.
+# **🍮doyeongHyun Studios🍮**     
+- Hello, I'm **DOYEONG HYUN(현도영)**. I document my studies and hobbies here.
 
 
 &nbsp;
